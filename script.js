@@ -4,7 +4,7 @@ const textArea = document.querySelector('.input-text')
 const popUp = document.querySelector('.settings-window')
 
 let nowWord = 0
-const maxWords = 1
+const maxWords = 5
 const templateTextArea = ' — это ...'
 
 let words = []
